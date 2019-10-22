@@ -1,0 +1,1 @@
+Important: When developing real-world apps, use flexible constraints for the height and width of your UI elements, whenever possible. For example, use match_constraint or wrap_content. The more fixed-size UI elements you have in your app, the less adaptive your layout is for different screen configurations.
