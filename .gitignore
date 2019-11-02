@@ -45,6 +45,8 @@ captures/
 .idea/dictionaries
 .idea/libraries
 .idea/caches
+
+*/.idea
 # Android Studio 3 in .gitignore file.
 .idea/caches/build_file_checksums.ser
 .idea/modules.xml
@@ -91,7 +93,8 @@ lint/tmp/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
